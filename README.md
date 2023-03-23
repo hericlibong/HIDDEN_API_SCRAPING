@@ -22,7 +22,30 @@ The data was extracted from 3 fashion sites :
 
 ![banana_republic](assets/banana.png)
 
+
+
+
+
 <br>
+
+### Shop Dia
+
+![shopia](assets/20230323_235146_shopdia.png)
+
+<br>
+
+### Asos
+
+<br>
+
+Images extractions with Scrapy
+
+<br>
+
+![asos](assets/20230323_235715_asos.png)
+
+
+
 
 
 
